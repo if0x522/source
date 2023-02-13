@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/main.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/main.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/main.c"
+},
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/sdv.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/sdv.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/sdv.c"
+},
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/diskio.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/diskio.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/diskio.c"
+},
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/ff.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/ff.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/ff.c"
+},
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/ffsystem.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/ffsystem.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/ffsystem.c"
+},
+{
+  "directory": "/mnt/c/Users/zhen/Downloads/ff15/source/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/zhen/Downloads/ff15/source/.  -g   -o CMakeFiles/app.dir/ffunicode.c.o   -c /mnt/c/Users/zhen/Downloads/ff15/source/ffunicode.c",
+  "file": "/mnt/c/Users/zhen/Downloads/ff15/source/ffunicode.c"
+}
+]

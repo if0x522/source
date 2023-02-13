@@ -1,0 +1,12 @@
+#所需cmake最低版本
+cmake_minimum_required(VERSION 3.13)
+#工程名
+project(app)
+
+set(FF_SRC diskio.c ff.c ffsystem.c ffunicode.c)
+
+include_directories(./)
+
+#生成可执行文件
+add_executable(app main.c sdv.c ${FF_SRC})
+

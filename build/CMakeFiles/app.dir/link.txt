@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/app.dir/main.c.o CMakeFiles/app.dir/sdv.c.o CMakeFiles/app.dir/diskio.c.o CMakeFiles/app.dir/ff.c.o CMakeFiles/app.dir/ffsystem.c.o CMakeFiles/app.dir/ffunicode.c.o  -o app 

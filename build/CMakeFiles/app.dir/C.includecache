@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/zhen/Downloads/ff15/source/ff.h
+ffconf.h
+/mnt/c/Users/zhen/Downloads/ff15/source/ffconf.h
+windows.h
+-
+float.h
+-
+stdint.h
+-
+
+/mnt/c/Users/zhen/Downloads/ff15/source/ffconf.h
+
+/mnt/c/Users/zhen/Downloads/ff15/source/main.c
+stdio.h
+-
+sdv.h
+/mnt/c/Users/zhen/Downloads/ff15/source/sdv.h
+ff.h
+/mnt/c/Users/zhen/Downloads/ff15/source/ff.h
+
+/mnt/c/Users/zhen/Downloads/ff15/source/sdv.h
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+
